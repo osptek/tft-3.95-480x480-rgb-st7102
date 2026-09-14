@@ -30,7 +30,7 @@
 
 OSPTEK **3.95″ 480×480 TFT** is a **RGB 18-bit** color display module driven by **ST7102**, with **In-Cell** capacitive touch (`TP_SDA` / `TP_SCL` on the FPC). Suited to square HMI, instruments, and mid-size panels.
 
-Spec ID (repository name): `3.95-tft-480x480-rgb-st7102`
+Spec ID (repository name): `tft-3.95-480x480-rgb-st7102`
 
 Current module version: **YDP395B005-V4**. Electrical and mechanical details follow [`docs/YDP395B005-V4.pdf`](./docs/YDP395B005-V4.pdf).
 
@@ -50,7 +50,7 @@ Current module version: **YDP395B005-V4**. Electrical and mechanical details fol
 ## Repository layout
 
 ```text
-3.95-tft-480x480-rgb-st7102/                                # repo root (nav: ../../README_EN.md)
+tft-3.95-480x480-rgb-st7102/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP395B005-V4/                                # full materials for this part number
         ├── README.md
