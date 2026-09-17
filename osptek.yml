@@ -1,0 +1,14 @@
+id: tft-3.95-480x480-rgb-st7102
+category: displays
+
+size: "3.95"
+panel: tft
+resolution: 480x480
+interface: [rgb]
+shape: rect
+
+versions:
+  - id: YDP395B005-V4
+    driver: ST7102
+    touch: ST7102
+    note: In-Cell capacitive touch; RGB 18-bit
